@@ -1,0 +1,5 @@
+nric_regex: '^[STFG]\d{7}[A-Z]$'
+postal_code_regex: '^\d{6}$'
+date_format: '%Y-%m-%d'
+filing_must_be_after_assessment: true
+cq_tolerance_abs: 0.0
